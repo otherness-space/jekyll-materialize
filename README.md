@@ -11,7 +11,7 @@ in
 
 To test the site locally:
 
-1. `$ git clone https://github.com/marcanuy/jekyll-bootstrap4.git`
+1. `$ git clone https://github.com/otherness-space/jekyll-bootstrap4.git`
 2. `$ cd jekyll-bootstrap4/`
 3. `make serve`
 
