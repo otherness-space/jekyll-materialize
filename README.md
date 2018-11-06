@@ -3,7 +3,7 @@ Bootstrap 4 with Jekyll example site.
 
 # Notes
 
-This repository began with following the steps
+This repository began as a fork of following the steps
 in
 <https://simpleit.rocks/ruby/jekyll/tutorials/how-to-add-bootstrap-4-to-jekyll-the-right-way/> .
 
