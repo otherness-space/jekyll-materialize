@@ -1,4 +1,4 @@
-# jekyll-bootstrap4
+# jekyll-materialize
 Bootstrap 4 with Jekyll example site.
 
 # Notes
@@ -11,8 +11,8 @@ in
 
 To test the site locally:
 
-1. `$ git clone https://github.com/otherness-space/jekyll-bootstrap4.git`
-2. `$ cd jekyll-bootstrap4/`
+1. `$ git clone https://github.com/otherness-space/jekyll-materialize.git`
+2. `$ cd jekyll-materialize/`
 3. `$ npm init --force; npm install bootstrap; npm install jquery; npm install popper.js; tree -L 2` // this makes everything work better even if it has been done
 4. `$ gem update`
 5. `$ bundle exec jekyll build`

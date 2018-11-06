@@ -16,11 +16,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otherness-space/jekyll-bootstrap4.git"
+    "url": "git+https://github.com/otherness-space/jekyll-materialize.git"
   },
   "bugs": {
-    "url": "https://github.com/otherness-space/jekyll-bootstrap4/issues"
+    "url": "https://github.com/otherness-space/jekyll-materialize/issues"
   },
-  "homepage": "https://github.com/otherness-space/jekyll-bootstrap4#readme",
+  "homepage": "https://github.com/otherness-space/jekyll-materialize#readme",
   "devDependencies": {}
 }
