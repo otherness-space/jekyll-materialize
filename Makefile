@@ -17,7 +17,8 @@ build: install include-npm-deps
 	$(JEKYLL) build
 
 serve: install include-npm-deps
-	JEKYLL_ENV=production $(JEKYLL) serve
+	# JEKYLL_ENV=production $(JEKYLL) serve
+	JEKYLL_ENV=development $(JEKYLL) serve
 
 generate-githubpages:
 	rm -fr JEKYLL_ENV=production $(JEKYLL) build --baseurl https://otherness-space.github.io/jekyll-bootstrap4/ -d && touch .nojekyll
