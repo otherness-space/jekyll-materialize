@@ -17,7 +17,7 @@ To test the site locally:
 4. `$ gem update`
 5. `$ bundle exec jekyll build`
 6. `$ bundle update`
-7. `$ bundle exec make serve` // this makes magic
+7. `$ bundle exec make serve` // this makes magic but please note `make: unrecognized option '--incremental`
 8. `$ bundle exec jekyll serve --incremental` // --incremental is cool but it works kinda for the local testing
 
 Happy Jekylling!
